@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Halis</h1>
-<h3 align="center">A programmer who devoted his life to technology and technology development(eril)</h3>
+<h3 align="center">A programmer who devoted his life to technology and technology development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
